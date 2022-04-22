@@ -1,9 +1,17 @@
+/* eslint-disable @next/next/no-img-element */
 import React from "react";
 
-// import { Container } from './styles';
+import { Container, Hero } from "../styles/pages/homeStyles";
 
-const pages: React.FC = () => {
-  return <h1>Home</h1>;
+const Home: React.FC = () => {
+  return (
+    <Container>
+      <Hero>
+        Heros
+        {/* <img src="/images/hero.png" alt="Logo" /> */}
+      </Hero>
+    </Container>
+  );
 };
 
-export default pages;
+export default Home;

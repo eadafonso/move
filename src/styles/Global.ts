@@ -35,6 +35,7 @@ export default createGlobalStyle`
     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 400;
     outline: none;
+    overflow-y: hidden;
   }
 
   ul, 
