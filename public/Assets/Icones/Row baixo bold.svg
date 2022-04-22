@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Iconly_Bold_Arrow_-_Down_Circle" data-name="Iconly/Bold/Arrow - Down Circle" opacity="0.6">
+    <g id="Arrow_-_Down_Circle" data-name="Arrow - Down Circle" transform="translate(0 0)">
+      <path id="Arrow_-_Down_Circle-2" data-name="Arrow - Down Circle" d="M12,24A12,12,0,1,1,24,12,12.013,12.013,0,0,1,12,24ZM7.83,9.365a.884.884,0,0,0-.63.259.9.9,0,0,0-.271.648A.872.872,0,0,0,7.2,10.9l4.163,4.188a.9.9,0,0,0,1.272,0L16.8,10.9a.845.845,0,0,0,.264-.624.9.9,0,0,0-.264-.648.912.912,0,0,0-.635-.259.879.879,0,0,0-.637.271L12,13.176,8.472,9.636A.885.885,0,0,0,7.83,9.365Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

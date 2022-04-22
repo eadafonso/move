@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126.411" height="27.845" viewBox="0 0 126.411 27.845">
+  <g id="Grupo_34" data-name="Grupo 34" transform="translate(-544.589 -5595)">
+    <g id="Iconly_Bold_Video" data-name="Iconly/Bold/Video" transform="translate(544.589 5595)">
+      <g id="Video">
+        <path id="Video-2" data-name="Video" d="M7.635,27.845A7.258,7.258,0,0,1,0,20.307V7.538A7.257,7.257,0,0,1,7.635,0H18.387a7.257,7.257,0,0,1,7.635,7.538V20.307a7.258,7.258,0,0,1-7.635,7.538Zm25.7-4.417-2.748-1.387a3.014,3.014,0,0,1-1.649-2.7V8.507a3,3,0,0,1,1.649-2.7l2.75-1.39a2.57,2.57,0,0,1,2.549.119A2.659,2.659,0,0,1,37.126,6.8V21.047a2.655,2.655,0,0,1-1.241,2.264,2.6,2.6,0,0,1-1.38.4A2.57,2.57,0,0,1,33.333,23.428Z" fill="#ff151c"/>
+      </g>
+    </g>
+    <text id="Move_ON" data-name="Move ON" transform="translate(589 5616)" fill="#fff" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Move </tspan><tspan y="0" fill="#ff151c" text-decoration="underline">ON</tspan></text>
+  </g>
+</svg>
